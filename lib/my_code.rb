@@ -10,6 +10,7 @@ def map(array)
 end
 
 # [1,2,3]
+#[1,2, true, "razzmatazz"]
 def reduce(array, sp=nil)
   if sp
     total = sp
