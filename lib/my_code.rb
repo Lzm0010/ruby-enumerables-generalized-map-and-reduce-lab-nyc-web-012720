@@ -26,3 +26,5 @@ def reduce(array, sp=nil)
   end
   total
 end
+
+reduce(1,2,3) {|memo, n| }
