@@ -9,7 +9,7 @@ def map(array)
   new_array
 end
 
-
+[1,2,3]
 def reduce(array, sp=nil)
   if sp
     total = sp
